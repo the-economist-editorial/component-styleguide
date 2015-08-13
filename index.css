@@ -1,0 +1,9 @@
+@import 'node_modules/react-styleguide/dist/main.css';
+@import '@economist/component-pager';
+@import '@economist/component-icon';
+@import '@economist/component-gobbet';
+
+.component-panel,
+.component-title {
+  display: none;
+}
