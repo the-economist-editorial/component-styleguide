@@ -2,8 +2,16 @@
 @import '@economist/component-pager';
 @import '@economist/component-icon';
 @import '@economist/component-gobbet';
+@import '@economist/component-sharebar';
 
 .component-panel,
 .component-title {
   display: none;
+}
+figure img {
+  width: 30% !important;
+}
+.Styleguide-sidebar > ul li {
+  text-align: left;
+  margin-left: 10px;
 }

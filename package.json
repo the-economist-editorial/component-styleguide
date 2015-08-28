@@ -69,6 +69,7 @@
     "@economist/component-imagecaption": "^1.1.1",
     "@economist/component-icon": "3.0.4",
     "@economist/component-gobbet": "^3.0.2",
+    "@economist/component-sharebar": "^1.3.2",
     "react-styleguide": "^0.0.4",
     "react": "^0.13.3"
   },
